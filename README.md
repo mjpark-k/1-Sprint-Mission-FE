@@ -7,7 +7,7 @@
 - [x] Github에 위클리 미션 PR을 만들어 주세요.
 - [x] React 혹은 Next.js를 사용해 진행합니다.
 - [x] 프론트엔드에서 api 요청 구현은 TanStack React Query를 활용해 주세요.
-- [x] API는 https://panda-market-api.vercel.app를 사용합니다. 명세는 https://panda-market-api.vercel.app/docs를 확인해 주세요.
+- [x] API는 https://panda-market-api.vercel.app 를 사용합니다. 명세는 https://panda-market-api.vercel.app/docs 를 확인해 주세요.
 
 **로그인/회원가입 페이지**
 
